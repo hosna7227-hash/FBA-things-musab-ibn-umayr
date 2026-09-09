@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap:https://hosna7227-hash.github.io/FBA-things-musab-ibn-umayr/sitemap.xml
